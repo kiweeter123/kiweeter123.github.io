@@ -7,7 +7,9 @@ loginButton.addEventListener("click", (e) => {
     const username = loginForm.username.value;
     const password = loginForm.password.value;
     
-    
+    if (username === "stin" && password === "cheeks") {
+        alert("You have successfully logged in.");
+        window.location="https://privateincogv1.herokuapp.com/"
 
     if (username === "admin" && password === "admin") {
         alert("You have successfully logged in.");
@@ -18,8 +20,5 @@ loginButton.addEventListener("click", (e) => {
         loginErrorMsg.style.opacity = 1;
     }
     
-    if (username === "stin" && password === "cheeks") {
-        alert("You have successfully logged in.");
-        window.location="https://privateincogv1.herokuapp.com/"
-    }
+    
 })
