@@ -26,12 +26,21 @@ loginButton.addEventListener("click", (e) => {
         loginErrorMsg.style.opacity = 1;
     }
     
-      if (username === "minka" && password === "cheeks") {
+      if (username === "boog" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location="https://privateincogv1.herokuapp.com/"
+        window.location="https://privateincogv1.herokuapp.com/verified.html"
       }
     
      else {
+        loginErrorMsg.style.opacity = 1;
+    }
+    
+      if (username === "bones" && password === "cheeks") {
+        alert("You have successfully logged in.");
+        window.location="https://privateincogv1.herokuapp.com/verified.html"
+      }
+    
+    else {
         loginErrorMsg.style.opacity = 1;
     }
 })
