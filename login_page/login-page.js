@@ -10,7 +10,7 @@ loginButton.addEventListener("click", (e) => {
 
     if (username === "modz" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location="https://privateincogv1.herokuapp.com/verified.html"
+        window.location.replace="https://privateincogv1.herokuapp.com/verified.html"
     } 
     
     else {
