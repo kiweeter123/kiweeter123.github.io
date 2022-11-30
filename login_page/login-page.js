@@ -90,7 +90,7 @@ loginButton.addEventListener("click", (e) => {
         loginErrorMsg.style.opacity = 1;
      }
     
-    if (username === "temp" && password === "temp") {
+    if (username === "li" && password === "cheeks") {
         alert("You have successfully logged in.");
         window.location="https://privateincogv1.herokuapp.com/verified.html"
     }
