@@ -11,7 +11,7 @@ loginButton.addEventListener("click", (e) => {
 
     if (username === "modz" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location.replace("https://youtube.com");
+        window.location.href="https://privateincogv1.herokuapp.com/verified.html"
     } 
     
     else {
