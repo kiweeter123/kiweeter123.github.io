@@ -79,4 +79,22 @@ loginButton.addEventListener("click", (e) => {
      else {
         loginErrorMsg.style.opacity = 1;
      }
+    
+    if (username === "bmac" && password === "cheeks") {
+        alert("You have successfully logged in.");
+        window.location="https://privateincogv1.herokuapp.com/verified.html"
+    }
+    
+     else {
+        loginErrorMsg.style.opacity = 1;
+     }
+    
+    if (username === "temp" && password === "temp") {
+        alert("You have successfully logged in.");
+        window.location="https://privateincogv1.herokuapp.com/verified.html"
+    }
+    
+     else {
+        loginErrorMsg.style.opacity = 1;
+     }
 })
