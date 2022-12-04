@@ -11,7 +11,7 @@ loginButton.addEventListener("click", (e) => {
 
     if (username === "modz" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location.href="https://kiwislairv2.onrender.com/verified.html"
+        window.location.href="https://privateincogv1.herokuapp.com/verified.html"
     } 
     
     else {
@@ -20,7 +20,7 @@ loginButton.addEventListener("click", (e) => {
     
       if (username === "stin" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location="https://grizzly-psychedelic-double.glitch.me/verified.html"
+        window.location="https://privateincogv1.herokuapp.com/verified.html"
     }
     
     else {
@@ -29,7 +29,7 @@ loginButton.addEventListener("click", (e) => {
     
       if (username === "boog" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location="https://grizzly-psychedelic-double.glitch.me/verified.html"
+        window.location="https://privateincogv1.herokuapp.com/verified.html"
       }
     
      else {
@@ -38,7 +38,7 @@ loginButton.addEventListener("click", (e) => {
     
       if (username === "bones" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location="https://grizzly-psychedelic-double.glitch.me/verified.html"
+        window.location="https://privateincogv1.herokuapp.com/verified.html"
       }
     
     else {
@@ -47,7 +47,7 @@ loginButton.addEventListener("click", (e) => {
     
        if (username === "lei" && password === "dukert") {
         alert("You have successfully logged in.");
-        window.location="https://grizzly-psychedelic-double.glitch.me/verified.html"
+        window.location="https://privateincogv1.herokuapp.com/verified.html"
        }
     
     else {
@@ -56,7 +56,7 @@ loginButton.addEventListener("click", (e) => {
     
     if (username === "gut" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location="https://grizzly-psychedelic-double.glitch.me/verified.html"
+        window.location="https://privateincogv1.herokuapp.com/verified.html"
     }
        
     else {
@@ -65,7 +65,7 @@ loginButton.addEventListener("click", (e) => {
     
      if (username === "burger" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location="https://grizzly-psychedelic-double.glitch.me/verified.html"
+        window.location="https://privateincogv1.herokuapp.com/verified.html"
      }
     
     else {
@@ -74,7 +74,7 @@ loginButton.addEventListener("click", (e) => {
     
       if (username === "lick" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location="https://grizzly-psychedelic-double.glitch.me/verified.html"
+        window.location="https://privateincogv1.herokuapp.com/verified.html"
      }
     
      else {
@@ -83,7 +83,7 @@ loginButton.addEventListener("click", (e) => {
     
     if (username === "bmac" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location="https://grizzly-psychedelic-double.glitch.me/verified.html"
+        window.location="https://privateincogv1.herokuapp.com/verified.html"
     }
     
      else {
@@ -92,7 +92,7 @@ loginButton.addEventListener("click", (e) => {
     
     if (username === "li" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location="https://grizzly-psychedelic-double.glitch.me/verified.html"
+        window.location="https://privateincogv1.herokuapp.com/verified.html"
     }
     
      else {
@@ -101,7 +101,7 @@ loginButton.addEventListener("click", (e) => {
     
     if (username === "skittles2006" && password === "boof") {
         alert("You have successfully logged in.");
-        window.location="https://grizzly-psychedelic-double.glitch.me/verified.html"
+        window.location="https://privateincogv1.herokuapp.com/verified.html"
     }
     
       else {
@@ -111,7 +111,7 @@ loginButton.addEventListener("click", (e) => {
     
      if (username === "gdawg489" && password === "boof") {
         alert("You have successfully logged in.");
-        window.location="https://grizzly-psychedelic-double.glitch.me/verified.html"
+        window.location="https://privateincogv1.herokuapp.com/verified.html"
      }
     
      else {
@@ -120,7 +120,7 @@ loginButton.addEventListener("click", (e) => {
     
      if (username === "saltyball" && password === "2064") {
         alert("You have successfully logged in.");
-        window.location="https://grizzly-psychedelic-double.glitch.me/verified.html"
+        window.location="https://privateincogv1.herokuapp.com/verified.html"
      }
     
     else {
