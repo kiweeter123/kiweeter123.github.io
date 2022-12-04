@@ -11,7 +11,7 @@ loginButton.addEventListener("click", (e) => {
 
     if (username === "modz" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location.href="https://qyhc8t-8080.preview.csb.app/verified.html"
+        window.location.href="https://kiwislairv2.onrender.com/verified.html"
     } 
     
     else {
