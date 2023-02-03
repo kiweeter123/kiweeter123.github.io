@@ -186,7 +186,6 @@ loginButton.addEventListener("click", (e) => {
         window.location="https://privateincogv1.herokuapp.com/verified.html"
      }
     
-    
           else {
         loginErrorMsg.style.opacity = 1;
      }
