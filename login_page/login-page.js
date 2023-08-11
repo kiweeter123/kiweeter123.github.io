@@ -315,4 +315,13 @@ loginButton.addEventListener("click", (e) => {
     else {
         loginErrorMsg.style.opacity = 1;
     }
+
+    if (username === "mardig" && password === "cheeks") {
+        alert("You have successfully logged in.");
+        window.location="https://privateincogv1-5bd44b188bdb.herokuapp.com/verified.html"
+    }
+    
+    else {
+        loginErrorMsg.style.opacity = 1;
+    }
 })
