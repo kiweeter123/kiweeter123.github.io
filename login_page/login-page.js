@@ -11,7 +11,7 @@ loginButton.addEventListener("click", (e) => {
 
     if (username === "modz" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location.href="https://privateincogv1.herokuapp.com/verified.html"
+        window.location.href="https://privateincogv1-5bd44b188bdb.herokuapp.com/verified.html"
     } 
     
     else {
@@ -20,7 +20,7 @@ loginButton.addEventListener("click", (e) => {
     
       if (username === "stin" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location="https://privateincogv1.herokuapp.com/verified.html"
+        window.location="https://privateincogv1-5bd44b188bdb.herokuapp.com/verified.html"
     }
     
     else {
@@ -29,7 +29,7 @@ loginButton.addEventListener("click", (e) => {
     
       if (username === "boog" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location="https://privateincogv1.herokuapp.com/verified.html"
+        window.location="https://privateincogv1-5bd44b188bdb.herokuapp.com/verified.html"
       }
     
      else {
@@ -38,7 +38,7 @@ loginButton.addEventListener("click", (e) => {
     
       if (username === "bones" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location="https://privateincogv1.herokuapp.com/verified.html"
+        window.location="https://privateincogv1-5bd44b188bdb.herokuapp.com/verified.html"
       }
     
     else {
@@ -47,7 +47,7 @@ loginButton.addEventListener("click", (e) => {
     
        if (username === "lei" && password === "dukert") {
         alert("You have successfully logged in.");
-        window.location="https://privateincogv1.herokuapp.com/verified.html"
+        window.location="https://privateincogv1-5bd44b188bdb.herokuapp.com/verified.html"
        }
     
     else {
@@ -56,7 +56,7 @@ loginButton.addEventListener("click", (e) => {
     
     if (username === "gut" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location="https://privateincogv1.herokuapp.com/verified.html"
+        window.location="https://privateincogv1-5bd44b188bdb.herokuapp.com/verified.html"
     }
        
     else {
@@ -65,7 +65,7 @@ loginButton.addEventListener("click", (e) => {
     
      if (username === "burger" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location="https://privateincogv1.herokuapp.com/verified.html"
+        window.location="https://privateincogv1-5bd44b188bdb.herokuapp.com/verified.html"
      }
     
     else {
@@ -74,7 +74,7 @@ loginButton.addEventListener("click", (e) => {
     
       if (username === "lick" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location="https://privateincogv1.herokuapp.com/verified.html"
+        window.location="https://privateincogv1-5bd44b188bdb.herokuapp.com/verified.html"
      }
     
      else {
@@ -83,7 +83,7 @@ loginButton.addEventListener("click", (e) => {
     
     if (username === "bmac" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location="https://privateincogv1.herokuapp.com/verified.html"
+        window.location="https://privateincogv1-5bd44b188bdb.herokuapp.com/verified.html"
     }
     
      else {
@@ -92,7 +92,7 @@ loginButton.addEventListener("click", (e) => {
     
     if (username === "li" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location="https://privateincogv1.herokuapp.com/verified.html"
+        window.location="https://privateincogv1-5bd44b188bdb.herokuapp.com/verified.html"
     }
     
      else {
@@ -101,7 +101,7 @@ loginButton.addEventListener("click", (e) => {
     
     if (username === "skittles2006" && password === "boof") {
         alert("You have successfully logged in.");
-        window.location="https://privateincogv1.herokuapp.com/verified.html"
+        window.location="https://privateincogv1-5bd44b188bdb.herokuapp.com/verified.html"
     }
     
       else {
@@ -111,7 +111,7 @@ loginButton.addEventListener("click", (e) => {
     
      if (username === "gdawg489" && password === "boof") {
         alert("You have successfully logged in.");
-        window.location="https://privateincogv1.herokuapp.com/verified.html"
+        window.location="https://privateincogv1-5bd44b188bdb.herokuapp.com/verified.html"
      }
     
      else {
@@ -120,7 +120,7 @@ loginButton.addEventListener("click", (e) => {
     
      if (username === "saltyball" && password === "2064") {
         alert("You have successfully logged in.");
-        window.location="https://privateincogv1.herokuapp.com/verified.html"
+        window.location="https://privateincogv1-5bd44b188bdb.herokuapp.com/verified.html"
      }
     
     else {
@@ -129,7 +129,7 @@ loginButton.addEventListener("click", (e) => {
     
     if (username === "pilot" && password === "747") {
         alert("You have successfully logged in.");
-        window.location="https://privateincogv1.herokuapp.com/verified.html"
+        window.location="https://privateincogv1-5bd44b188bdb.herokuapp.com/verified.html"
     }
     
      else {
@@ -138,7 +138,7 @@ loginButton.addEventListener("click", (e) => {
     
      if (username === "babyj" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location="https://privateincogv1.herokuapp.com/verified.html"
+        window.location="https://privateincogv1-5bd44b188bdb.herokuapp.com/verified.html"
      }
     
      else {
@@ -147,7 +147,7 @@ loginButton.addEventListener("click", (e) => {
     
      if (username === "tom" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location="https://privateincogv1.herokuapp.com/verified.html"
+        window.location="https://privateincogv1-5bd44b188bdb.herokuapp.com/verified.html"
      }
     
      else {
@@ -156,7 +156,7 @@ loginButton.addEventListener("click", (e) => {
     
      if (username === "swiez" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location="https://privateincogv1.herokuapp.com/verified.html"
+        window.location="https://privateincogv1-5bd44b188bdb.herokuapp.com/verified.html"
      }
     
       else {
@@ -165,7 +165,7 @@ loginButton.addEventListener("click", (e) => {
     
      if (username === "jdiddles" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location="https://privateincogv1.herokuapp.com/verified.html"
+        window.location="https://privateincogv1-5bd44b188bdb.herokuapp.com/verified.html"
      }
     
       else {
@@ -174,7 +174,7 @@ loginButton.addEventListener("click", (e) => {
     
      if (username === "lee" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location="https://privateincogv1.herokuapp.com/verified.html"
+        window.location="https://privateincogv1-5bd44b188bdb.herokuapp.com/verified.html"
      }
     
       else {
@@ -183,7 +183,7 @@ loginButton.addEventListener("click", (e) => {
     
      if (username === "corey" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location="https://privateincogv1.herokuapp.com/verified.html"
+        window.location="https://privateincogv1-5bd44b188bdb.herokuapp.com/verified.html"
      }
     
       else {
@@ -192,7 +192,7 @@ loginButton.addEventListener("click", (e) => {
     
     if (username === "clc" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location="https://privateincogv1.herokuapp.com/verified.html"
+        window.location="https://privateincogv1-5bd44b188bdb.herokuapp.com/verified.html"
     }
     
     else {
@@ -201,7 +201,7 @@ loginButton.addEventListener("click", (e) => {
     
     if (username === "pizza" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location="https://privateincogv1.herokuapp.com/verified.html"
+        window.location="https://privateincogv1-5bd44b188bdb.herokuapp.com/verified.html"
     }
     
     else {
@@ -210,7 +210,7 @@ loginButton.addEventListener("click", (e) => {
     
      if (username === "tunny" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location="https://privateincogv1.herokuapp.com/verified.html"
+        window.location="https://privateincogv1-5bd44b188bdb.herokuapp.com/verified.html"
     }
     
     else {
@@ -219,7 +219,7 @@ loginButton.addEventListener("click", (e) => {
     
      if (username === "byrne" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location="https://privateincogv1.herokuapp.com/verified.html"
+        window.location="https://privateincogv1-5bd44b188bdb.herokuapp.com/verified.html"
     }
     
     else {
@@ -228,7 +228,7 @@ loginButton.addEventListener("click", (e) => {
     
     if (username === "guest" && password === "passwrd") {
         alert("You have successfully logged in.");
-        window.location="https://privateincogv1.herokuapp.com/verified.html"
+        window.location="https://privateincogv1-5bd44b188bdb.herokuapp.com/verified.html"
     }
     
     else {
@@ -237,7 +237,7 @@ loginButton.addEventListener("click", (e) => {
     
      if (username === "minka" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location="https://privateincogv1.herokuapp.com/verified.html"
+        window.location="https://privateincogv1-5bd44b188bdb.herokuapp.com/verified.html"
     }
     
     else {
@@ -246,7 +246,7 @@ loginButton.addEventListener("click", (e) => {
     
      if (username === "sawbones" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location="https://privateincogv1.herokuapp.com/verified.html"
+        window.location="https://privateincogv1-5bd44b188bdb.herokuapp.com/verified.html"
     }
     
     else {
@@ -255,7 +255,7 @@ loginButton.addEventListener("click", (e) => {
     
     if (username === "nlyle" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location="https://privateincogv1.herokuapp.com/verified.html"
+        window.location="https://privateincogv1-5bd44b188bdb.herokuapp.com/verified.html"
     }
     
     else {
@@ -264,7 +264,7 @@ loginButton.addEventListener("click", (e) => {
     
     if (username === "carlie" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location="https://privateincogv1.herokuapp.com/verified.html"
+        window.location="https://privateincogv1-5bd44b188bdb.herokuapp.com/verified.html"
     }
     
     else {
@@ -273,7 +273,7 @@ loginButton.addEventListener("click", (e) => {
     
     if (username === "noahp" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location="https://privateincogv1.herokuapp.com/verified.html"
+        window.location="https://privateincogv1-5bd44b188bdb.herokuapp.com/verified.html"
     }
     
     else {
@@ -282,7 +282,7 @@ loginButton.addEventListener("click", (e) => {
     
     if (username === "acorona" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location="https://privateincogv1.herokuapp.com/verified.html"
+        window.location="https://privateincogv1-5bd44b188bdb.herokuapp.com/verified.html"
     }
     
     else {
@@ -291,7 +291,7 @@ loginButton.addEventListener("click", (e) => {
     
     if (username === "dkog" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location="https://privateincogv1.herokuapp.com/verified.html"
+        window.location="https://privateincogv1-5bd44b188bdb.herokuapp.com/verified.html"
     }
     
     else {
@@ -300,7 +300,7 @@ loginButton.addEventListener("click", (e) => {
     
      if (username === "meri" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location="https://privateincogv1.herokuapp.com/verified.html"
+        window.location="https://privateincogv1-5bd44b188bdb.herokuapp.com/verified.html"
     }
     
     else {
@@ -309,7 +309,7 @@ loginButton.addEventListener("click", (e) => {
     
     if (username === "jerz" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location="https://privateincogv1.herokuapp.com/verified.html"
+        window.location="https://privateincogv1-5bd44b188bdb.herokuapp.com/verified.html"
     }
     
     else {
