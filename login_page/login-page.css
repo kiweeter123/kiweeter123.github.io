@@ -64,7 +64,7 @@ body {
   border-bottom: 1px solid #3a3a3a;
   margin-bottom: 10px;
   border-radius: 3px;
-  outline: none;
+  outline: 1px solid #b85cd6;
   padding: 0px 0px 5px 5px;
 }
 
