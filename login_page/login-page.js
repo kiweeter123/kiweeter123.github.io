@@ -289,7 +289,7 @@ loginButton.addEventListener("click", (e) => {
         loginErrorMsg.style.opacity = 1;
     }
     
-    if (username === "dkog" && password === "cheeks") {
+    if (username === "day" && password === "cheeks") {
         alert("You have successfully logged in.");
         window.location="https://privateincogv1-5bd44b188bdb.herokuapp.com/verified.html"
     }
