@@ -21,6 +21,7 @@ body {
   background-color: white;
   border-radius: 7px;
   box-shadow: 0px 0px 5px 2px black;
+  outline: 3px solid #b85cd6;
 }
 
 #login-error-msg-holder {
@@ -53,6 +54,7 @@ body {
   display: grid;
   justify-items: center;
   align-items: center;
+  
 }
 
 .login-form-field::placeholder {
@@ -64,10 +66,13 @@ body {
   border-bottom: 1px solid #3a3a3a;
   margin-bottom: 10px;
   border-radius: 3px;
-  outline: 1px solid #b85cd6;
+  outline: 3px solid #b85cd6;
   padding: 0px 0px 5px 5px;
 }
-
+.kiwipic
+{
+    border: 3px solid #b85cd6;
+}
 #login-form-submit {
   width: 100%;
   padding: 7px;
@@ -77,5 +82,5 @@ body {
   font-weight: bold;
   background-color: #3a3a3a;
   cursor: pointer;
-  outline: none;
+  outline: 3px solid #b85cd6;
 }
