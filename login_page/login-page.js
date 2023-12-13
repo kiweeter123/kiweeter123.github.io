@@ -20,7 +20,7 @@ loginButton.addEventListener("click", (e) => {
     
       if (username === "stin" && password === "cheeks") {
         alert("You have successfully logged in.");
-        window.location="https://kiwibrowser-c81090e51d00.com/verified.html"
+        window.location="https://kiwibrowser-c81090e51d00.herokuapp.com/verified.html"
     }
     
     else {
