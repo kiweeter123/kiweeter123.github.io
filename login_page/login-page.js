@@ -10,7 +10,7 @@ loginButton.addEventListener("click", (e) => {
     //logins began here
 
     if (username === "modz" && password === "cheeks") {
-        alert("You have successfully logged in.");
+        alert("RIP Suki");
         window.location.href="https://kiwibrowser-c81090e51d00.herokuapp.com/verified.html"
     } 
     
