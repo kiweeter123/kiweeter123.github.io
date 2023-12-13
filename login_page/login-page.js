@@ -118,7 +118,7 @@ loginButton.addEventListener("click", (e) => {
         loginErrorMsg.style.opacity = 1;
      }
     
-     if (username === "saltyball" && password === "2064") {
+     if (username === "lin" && password === "cheeks") {
         alert("You have successfully logged in.");
         window.location="https://kiwibrowser-c81090e51d00.herokuapp.com/verified.html"
      }
